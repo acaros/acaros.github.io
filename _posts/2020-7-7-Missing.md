@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Missing Identity - 100 points
+categories: ctf picoctf2017
 ---
 
 > Turns out, some of the files back from Master Challenge 1 were corrupted. Restore this one file and find the flag. 
