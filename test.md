@@ -4,7 +4,11 @@ title: Test Section
 permalink: /test/
 ---
 
+{% for post in site.posts %}
+  {{post.ctf}}
 yep gonna try
+
+{% endfor %}
 
 ### More Information
 
